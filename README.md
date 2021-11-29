@@ -4,7 +4,7 @@ Generating informative and appropriate responses is vital for the success of hum
 
 ![image](figs/overview.png)
 
-This project is a tensorflow implement of our work, [EARL](https://aclanthology.org/2021.emnlp-main.184/).
+This project is a tensorflow implementation of our work, [EARL](https://aclanthology.org/2021.emnlp-main.184/).
 
 ## Dependencies
 
