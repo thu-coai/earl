@@ -21,7 +21,7 @@ Please see ```requirements.txt``` for more details.
 
 * Train
 
-  ```shell bash scripts/train_duconv.sh ```
+  ```bash scripts/train_duconv.sh ```
 
   ```bash scripts/train_opendialkg.sh ```
 
