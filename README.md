@@ -2,7 +2,7 @@
 
 Generating informative and appropriate responses is vital for the success of human-like dialogue systems. In this work, we propose an Entity-Agnostic Representation Learning (EARL) method to introduce knowledge graphs to informative conversation generation. Unlike traditional approaches that parameterize the specific representation for each entity, EARL utilizes the context of conversations and the relational structure of knowledge graphs to learn the category representation for entities, which is generalized to incorporating unseen entities in knowledge graphs into conversation generation. Automatic and manual evaluations demonstrate that our model can generate more informative, coherent, and natural responses than baseline models. The overview of EARL is shown as follows.
 
-![image](https://github.com/thu-coai/earl/blob/1446d45e339c318913320066302b3e5d3c3c4aac/figs/overview.pdf)
+![image](figs/overview.png)
 
 This project is a tensorflow implement of our work, [EARL](https://aclanthology.org/2021.emnlp-main.184/).
 
